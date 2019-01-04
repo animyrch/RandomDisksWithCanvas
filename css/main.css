@@ -1,0 +1,10 @@
+canvas, #button_container{
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+#button_container button{
+  align-self: auto;
+  margin-top: 5%;
+  display: none;
+}
