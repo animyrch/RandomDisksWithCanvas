@@ -1,7 +1,7 @@
 OBJETS
 
 disk
-	posX, posY, radius, color, opacity 
+	posX, posY, radius, color
 
 	drawDisk
 
